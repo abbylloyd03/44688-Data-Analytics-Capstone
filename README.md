@@ -22,9 +22,9 @@ To run this project you need an environment with the following applications inst
 
 ## Results
 
-The results of the fine-tuned Random Forest Regressor, fine-tuned K-Nearest Neighbor Regressor, and the Combined Model are listed in the table below. The fine-tuned Random Forest Regressor performed best according to all metrics, while the Combined Model performed second best. Because performance is similar on all models between the training and test sets, there is little evidence of over-fitting and the models should generalize to new data well. All of the fine-tuned models had mean absolute errors for test and train sets between about 6.45% and 7.24%. When converted to US$, these mean absolute errors are between about $13,999.57 and \15,670.84. 
+The results of the fine-tuned Random Forest Regressor, fine-tuned K-Nearest Neighbor Regressor, and the Combined Model are listed in the table below. The fine-tuned Random Forest Regressor performed best according to all metrics, while the Combined Model performed second best. Because performance is similar on all models between the training and test sets, there is little evidence of over-fitting and the models should generalize to new data well. All of the fine-tuned models had mean absolute errors for test and train sets between about 6.45% and 7.24%. When converted to US$, these mean absolute errors are between about $13,999.57 and $15,670.84. 
 
-
+![Results](Results_metrics.png)
 
 ## Future Work
 
