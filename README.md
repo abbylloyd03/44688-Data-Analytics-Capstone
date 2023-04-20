@@ -13,6 +13,9 @@ https://data.usaid.gov/HIV-AIDS/Supply-Chain-Shipment-Pricing-Data/a3rc-nmf6
 ## Overleaf Link
 https://www.overleaf.com/read/xjqzqzscypfy
 
+## Jupyter Notebook
+https://github.com/abbylloyd03/44688-Data-Analytics-Capstone/blob/master/Lloyd-Capstone-v2.ipynb
+
 ## Setup
 To run this project you need an environment with the following applications installed:
 - Python 3: https://www.python.org/downloads/
