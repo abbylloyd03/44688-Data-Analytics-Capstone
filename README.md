@@ -1,5 +1,8 @@
-# 44688-Data-Analytics-Capstone
-Capstone for the degree of MS in Data Analytics from NWMSU.
+# Predicting Line Item Values for Antiretroviral (AVR) and HIV Lab Purchases
+- 44688-Data-Analytics-Capstone
+- Capstone for the degree of MS in Data Analytics from NWMSU
+- Abby Lloyd
+- abbylloyd03@gmail.com
 
 ## Research Goals
 The goal of this research is to develop a machine learning model that accurately predicts the line-item value for antiretroviral drugs and HIV lab supplies that are to be shipped to countries negatively affected by the HIV/AIDS endemic. The goal is to make these predictions using a regression algorithm based off of known characteristics of the desired drug or lab test that could be found on a purchase order sent to a vendor or manufacturer. If a successful model is created, this could help nations and organizations better plan for future purchases of antiretroviral drugs and HIV supplies without having to wait for price quotes from manufacturers.
@@ -19,6 +22,13 @@ To run this project you need an environment with the following applications inst
 - matplotlib: https://pypi.org/project/matplotlib/
 - seaborn: https://pypi.org/project/seaborn/
 - scikit-learn: https://pypi.org/project/scikit-learn/
+- jupyterlab: https://jupyter.org/install
+
+## Description of Files
+- Lloyd-Capstone-v2.ipynb: Final version of the Jupyter notebook displaying all code and visualizations
+- Lloyd-Capstone.ipynb: First version of the Jupyter notebook displaying all code and visualizations
+- Lloyd_Capstone_Report_v1.pdf: PDF of Capstone Report
+- Results_metrics.png: Metrics summarizing the performance of the models
 
 ## Results
 
